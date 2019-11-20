@@ -15,3 +15,7 @@
 15. 2013 Research Advance in Swarm Robotics
 16. 2009 An Extensive Review of Research in Swarm Robotics 
 17. 2005 Cooperative Multi-Agent Learning: The State of the Art
+18. 2017 Guided Deep Reinforcement Learning for Swarm Systems
+19. 2018 Multi-agent Reinforcement Learning for Swarm Retrieval with Evolving Neural Network
+20. 2005 Swarm Robotics: From Sources of Inspiration to Domains of Application
+21. 2007 A Review of Studies in Swarm Robotics (важно насчет обучения)
